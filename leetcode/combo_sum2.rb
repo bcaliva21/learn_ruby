@@ -21,6 +21,10 @@ def helper(index, candidates, target, slate, results)
 end
 
 print combination_sum2([10,1,2,7,6,1,5],8)
+puts ""
+print combination_sum2([1,1,1,1,1,1,1],8)
+puts ""
+print combination_sum2([1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1],27)
 
 # Input: candidates = [10,1,2,7,6,1,5], target = 8
 # Input: candidates = [1,1,2,5,6,7,10], target = 8
